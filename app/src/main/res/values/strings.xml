@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Number Song Karaoke</string>
+    <!-- in res/values/strings.xml -->
+
+        <!-- … your other strings … -->
+    <string name="count_image">Counting image</string>
+
+
+
+
+
+</resources>
